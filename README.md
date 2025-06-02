@@ -1,5 +1,8 @@
 # text_masker
 
+![gif](https://velog.velcdn.com/images/locked/post/7f29d15a-da74-46ff-aad3-cbb920beb69f/image.gif)
+
+
 A lightweight Flutter package for masking text based on the position of other widgets. Use it to create visually compelling effects where text is only revealed within certain areas—perfect for scroll-based animations, overlays, or creative UI designs.
 
 ---
@@ -127,7 +130,6 @@ class MaskedTextDemoPage extends StatelessWidget {
 ![Example1](https://raw.githubusercontent.com/lockedfile/text_masker/main/assets/masked_1.png)
 
 ![Example2](https://raw.githubusercontent.com/lockedfile/text_masker/main/assets/masked_2.png)
-
 
 
 
